@@ -1,0 +1,122 @@
+{
+  "name": "babel",
+  "title": "Babel",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "entity": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-babel-spells",
+      "package": "world",
+      "path": "packs/ddb-babel-spells.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\zenym\\AppData\\Local\\FoundryVTT\\Data\\worlds\\babel\\packs\\ddb-babel-spells.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Items",
+      "name": "ddb-babel-items",
+      "package": "world",
+      "path": "packs/ddb-babel-items.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\zenym\\AppData\\Local\\FoundryVTT\\Data\\worlds\\babel\\packs\\ddb-babel-items.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-babel-class-features",
+      "package": "world",
+      "path": "packs/ddb-babel-class-features.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\zenym\\AppData\\Local\\FoundryVTT\\Data\\worlds\\babel\\packs\\ddb-babel-class-features.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-babel-classes",
+      "package": "world",
+      "path": "packs/ddb-babel-classes.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\zenym\\AppData\\Local\\FoundryVTT\\Data\\worlds\\babel\\packs\\ddb-babel-classes.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-babel-racial-traits",
+      "package": "world",
+      "path": "packs/ddb-babel-racial-traits.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\zenym\\AppData\\Local\\FoundryVTT\\Data\\worlds\\babel\\packs\\ddb-babel-racial-traits.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-babel-feats",
+      "package": "world",
+      "path": "packs/ddb-babel-feats.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\zenym\\AppData\\Local\\FoundryVTT\\Data\\worlds\\babel\\packs\\ddb-babel-feats.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Races",
+      "name": "ddb-babel-races",
+      "package": "world",
+      "path": "packs/ddb-babel-races.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\zenym\\AppData\\Local\\FoundryVTT\\Data\\worlds\\babel\\packs\\ddb-babel-races.db"
+    },
+    {
+      "entity": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-babel-monsters",
+      "package": "world",
+      "path": "packs/ddb-babel-monsters.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\zenym\\AppData\\Local\\FoundryVTT\\Data\\worlds\\babel\\packs\\ddb-babel-monsters.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Override",
+      "name": "ddb-babel-override",
+      "package": "world",
+      "path": "packs/ddb-babel-override.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\zenym\\AppData\\Local\\FoundryVTT\\Data\\worlds\\babel\\packs\\ddb-babel-override.db"
+    },
+    {
+      "entity": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-babel-tables",
+      "package": "world",
+      "path": "packs/ddb-babel-tables.db",
+      "system": "dnd5e",
+      "private": false
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "0.8.9",
+  "nextSession": "2021-09-03T20:05:00.000Z",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.4.2"
+}
